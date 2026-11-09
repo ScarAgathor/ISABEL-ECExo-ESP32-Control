@@ -1,3 +1,6 @@
 .pio/
 .vscode/
 .idea/
+sdkconfig
+sdkconfig.old
+sdkconfig.*
